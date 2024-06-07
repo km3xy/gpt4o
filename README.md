@@ -8,3 +8,4 @@ https://chatgpt.com/
 
 
 网页登录
+后可直接使用   gpt4o了
