@@ -77,6 +77,12 @@
 
 用迅雷浏览器  访问
 
+
+
+夸克浏览器  有时也可以用，
+
+
+
 https://platform.openai.com
 
 https://openai.com/index/openai-and-apple-announce-partnership/
