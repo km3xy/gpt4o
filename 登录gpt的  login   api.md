@@ -39,6 +39,20 @@ https://bitbucket.org/letsgogo/letsgogo_21/src/master/
 访问coze.cn 工作流商店 迅雷浏览器访问兼容网页可以缩放网页，
 coze.cn里 需要重gpt4o 插件里填入 api 才可以用
 用迅雷浏览器访问兼容，看网页清楚，主要是可以缩放网页
+
+.........
+
+coze.com  里可以买  gpt4o   gpt4
+
+gpt3.5     gemini
+
+
+Gemini    大模型的   api     token     
+
+
+............
+
+
 访问 coze.com coze.com 里好像能直接用gpt4o
 用迅雷浏览器访问这些 大模型 看网页清楚，主要是可以缩放网页
 
