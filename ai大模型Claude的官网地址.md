@@ -1,6 +1,24 @@
 后视镜外近内远
 
 
+快连vpn   美国线路    好用
+
+
+好用的浏览器谷歌的   chrome
+
+
+浏览器搜索   设置  选择谷歌浏览器搜索
+
+
+
+https://play.google.com/store/apps/details?id=com.android.chrome
+
+
+
+
+
+
+
 ai   大模型   
 
 
